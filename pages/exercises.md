@@ -109,3 +109,5 @@ ChatGPT
 50. Crie um array de strings e utilize o método `toString` para transformar o array em uma única string, mas separando as strings por ponto-e-vírgula.
 
 Espero que esses exercícios ajudem você a consolidar seus conhecimentos em JavaScript e manipulação de arrays! Se tiver mais dúvidas ou quiser explorar outros tópicos, fique à vontade para perguntar.
+
+ [Soluçõess](https://mervy.github.io/js-string-and-array/pages/solutions)
