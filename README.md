@@ -1,3 +1,4 @@
+[Home](https://mervy.github.io/js-string-and-array/) | [Exercises](https://mervy.github.io/js-string-and-array/pages/exercises)
 # Javascript - Strings e Arrays
 
 Exploraremos diversos métodos e técnicas de manipulação de arrays e strings em JavaScript puro. Abordaremos métodos como `map`, `filter`, `reduce`, `some`, `every`, `join`, `slice`, `splice`, `indexOf`, `concat`, `toString` e muitos outros. Cada um desses métodos oferece maneiras poderosas de transformar, filtrar e manipular dados de forma eficiente e elegante.
