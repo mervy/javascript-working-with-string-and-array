@@ -110,4 +110,4 @@ ChatGPT
 
 Espero que esses exercícios ajudem você a consolidar seus conhecimentos em JavaScript e manipulação de arrays! Se tiver mais dúvidas ou quiser explorar outros tópicos, fique à vontade para perguntar.
 
- [Soluçõess](https://mervy.github.io/js-string-and-array/pages/solutions)
+ [Soluções](https://mervy.github.io/js-string-and-array/pages/solutions)
